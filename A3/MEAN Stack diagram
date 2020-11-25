@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T12:34:54.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.2" etag="wwTak4lPk7Y5-3qztDIR" type="github"><diagram id="5zbgpcLiCDbi8dU7LXB0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-25T12:38:06.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="dZ0G9qpZlnA35LcFTgGv" version="13.10.2" type="github">
+  <diagram id="5zbgpcLiCDbi8dU7LXB0" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-1" value="M" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-2" value="MongoDB" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="270" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-3" value="Database Solution" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-4" value="E" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-5" value="Express.js" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-6" value="NodeJS Framework" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-7" value="A" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-8" value="Angular" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-9" value="Frontend JavaScript Framwework" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-10" value="N" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-11" value="NodeJS" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="270" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-12" value="JavaScript Runtime" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="380" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-13" value="M" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lI-UB9UGMnUW0hIhiWbP-14" value="E" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
