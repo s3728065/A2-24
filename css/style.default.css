@@ -328,9 +328,6 @@ footer {
   margin-top: 40px;
   margin-bottom: 40px;
   color: #eee;
-}
-
-.italic {
   font-style: italic;
 }
 
@@ -1149,7 +1146,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  margin: 30px 0;
+  margin-bottom: 0.5rem;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
   line-height: 1.44;
